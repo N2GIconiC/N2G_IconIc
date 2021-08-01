@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+#   N2G_IconiC
 
-You can use the [editor on GitHub](https://github.com/N2GIconiC/N2G_IconIc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![standard (6)](https://user-images.githubusercontent.com/88262167/127760988-a022da1e-496b-497d-83f1-3b7339ca3bd1.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+⏺I Am N2G_IconiC Owner Of [Not2GamerS](https://www.youtube.com/channel/UCFDwQne3OOEqlQPlOMDAHMg).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+⏺I Love To Play Games More And More.
 
-```markdown
-Syntax highlighted code block
+⏺See About Second Owner [N2G_KiLLer](https://n2gkiller.github.io/N2G_KiLLer/)
 
-# Header 1
-## Header 2
-### Header 3
+⏺Discord ID :- InFinity#2815 2️⃣:-𝕊𝔸𝕊𝕌𝕂𝔼#4132
 
-- Bulleted
-- List
+#   Games
 
-1. Numbered
-2. List
+![standard (5)](https://user-images.githubusercontent.com/87961069/127745545-836dd96a-08c5-464c-9fe2-819b2ca0f6c4.gif)
 
-**Bold** and _Italic_ and `Code` text
+1️⃣Minecarft
 
-[Link](url) and ![Image](src)
-```
+2️⃣GTA 5
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3️⃣Battlegrounds Mobile India
 
-### Jekyll Themes
+4️⃣Fall Guys
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/N2GIconiC/N2G_IconIc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5️⃣Watch dogs 2
 
-### Support or Contact
+#   Social Media
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![standard](https://user-images.githubusercontent.com/87961069/127760160-efeb2b35-a247-4a4d-b25f-3e99c441e498.gif) 
+
+💻[YouTube](https://www.youtube.com/channel/UCFDwQne3OOEqlQPlOMDAHMg)
+
+💬[Discord](https://discord.gg/yX7c7AvJrV)
+
+❤[Instagram](https://www.instagram.com/N2Gofficial/)
